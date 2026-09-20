@@ -498,3 +498,57 @@ https://streamflexsmm.in/Sflex-Jio/304073/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304072
 https://streamflexsmm.in/Sflex-Jio/304072/manifest.mpd
 
+#EXTINF:-1 tvg-id="3467" tvg-logo="https://img.media.jio.com/tvpimages/94/85/304080_1768981610985_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Green Gold TV
+https://streamflexsmm.in/Sflex-Jio/304080/manifest.m3u8
+
+#EXTINF:-1 tvg-id="1325" tvg-logo="https://img.media.jio.com/tvpimages/24/39/304138_1774031195149_l_medium.jpg" group-title="Entertainment" tvg-language="English",Colors Infinity
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304138
+https://streamflexsmm.in/Sflex-Jio/304138/manifest.mpd
+
+#EXTINF:-1 tvg-id="482" tvg-logo="https://img.media.jio.com/tvpimages/24/54/304137_1774031007540_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Colors Cineplex
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304137
+https://streamflexsmm.in/Sflex-Jio/304137/manifest.mpd
+
+#EXTINF:-1 tvg-id="545" tvg-logo="https://img.media.jio.com/tvpimages/77/20/304139_1774031339760_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Nick
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304139
+https://streamflexsmm.in/Sflex-Jio/304139/manifest.mpd
+
+#EXTINF:-1 tvg-id="1368" tvg-logo="https://img.media.jio.com/tvpimages/77/56/304140_1774534080812_l_medium.jpg" group-title="Entertainment" tvg-language="Hindi",Colors
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304140
+https://streamflexsmm.in/Sflex-Jio/304140/manifest.mpd
+
+#EXTINF:-1 tvg-id="1471" tvg-logo="https://img.media.jio.com/tvpimages/59/90/304141_1774534152885_l_medium.jpg" group-title="Infotainment" tvg-language="English",History TV18
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304141
+https://streamflexsmm.in/Sflex-Jio/304141/manifest.mpd
+
+#EXTINF:-1 tvg-id="3535" tvg-logo="https://img.media.jio.com/tvpimages/73/8/304150_1777299270523_l_medium.jpg" group-title="Entertainment" tvg-language="English",Mr. Bean
+https://streamflexsmm.in/Sflex-Jio/304150/manifest.m3u8
+
+#EXTINF:-1 tvg-id="821" tvg-logo="https://img.media.jio.com/tvpimages/70/82/304242_1787560791747_l_medium.jpg" group-title="Infotainment" tvg-language=" Hindi",Sony BBC Earth HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304242
+https://streamflexsmm.in/Sflex-Jio/304242/manifest.mpd
+
+#EXTINF:-1 tvg-id="762" tvg-logo="https://img.media.jio.com/tvpimages/40/55/304243_1787562153071_l_medium.jpg" group-title="Movies" tvg-language="English",Sony PIX HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304243
+https://streamflexsmm.in/Sflex-Jio/304243/manifest.mpd
+
+#EXTINF:-1 tvg-id="3418" tvg-logo="https://img.media.jio.com/tvpimages/37/57/304244_1787562499850_l_medium.jpg" group-title="Movies" tvg-language=" Hindi",Sony MAX1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304244
+https://streamflexsmm.in/Sflex-Jio/304244/manifest.mpd
+

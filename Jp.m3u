@@ -552,3 +552,8 @@ https://streamflexsmm.in/Sflex-Jio/304243/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304244
 https://streamflexsmm.in/Sflex-Jio/304244/manifest.mpd
 
+#EXTINF:-1 tvg-id="892" tvg-logo="https://img.media.jio.com/tvpimages/1/58/300255_1758886957880_l_medium.jpg" group-title="Sports" tvg-language="Hindi",Sony Sports Ten 3 Hindi HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300255
+https://streamflexsmm.in/Sflex-Jio/300255/manifest.mpd

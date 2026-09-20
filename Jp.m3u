@@ -347,3 +347,154 @@ https://streamflexsmm.in/Sflex-Jio/302077/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302082
 https://streamflexsmm.in/Sflex-Jio/302082/manifest.mpd
+
+#EXTINF:-1 tvg-id="1392" tvg-logo="https://img.media.jio.com/tvpimages/49/37/302079_1753198864150_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Super Hungama
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302079
+https://streamflexsmm.in/Sflex-Jio/302079/manifest.mpd
+
+#EXTINF:-1 tvg-id="1116" tvg-logo="https://img.media.jio.com/tvpimages/66/40/302084_1753189750742_l_medium.jpg" group-title="Entertainment" tvg-language="Hindi",Star Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302084
+https://streamflexsmm.in/Sflex-Jio/302084/manifest.mpd
+
+#EXTINF:-1 tvg-id="1125" tvg-logo="https://img.media.jio.com/tvpimages/11/79/302083_1753198668864_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Star Gold
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302083
+https://streamflexsmm.in/Sflex-Jio/302083/manifest.mpd
+
+#EXTINF:-1 tvg-id="1332" tvg-logo="https://img.media.jio.com/tvpimages/45/25/302089_1753203724962_l_medium.jpg" group-title="Infotainment" tvg-language="English",Nat Geo Wild HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302089
+https://streamflexsmm.in/Sflex-Jio/302089/manifest.mpd
+
+#EXTINF:-1 tvg-id="931" tvg-logo="https://img.media.jio.com/tvpimages/60/42/302087_1753199814927_l_medium.jpg" group-title="Entertainment" tvg-language="Hindi",Star Bharat HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302087
+https://streamflexsmm.in/Sflex-Jio/302087/manifest.mpd
+
+#EXTINF:-1 tvg-id="1375" tvg-logo="https://img.media.jio.com/tvpimages/21/80/302088_1753191193123_l_medium.jpg" group-title="Entertainment" tvg-language="English",Disney International HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302088
+https://streamflexsmm.in/Sflex-Jio/302088/manifest.mpd
+
+#EXTINF:-1 tvg-id="3097" tvg-logo="https://img.media.jio.com/tvpimages/26/56/302103_1753186906147_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Star Gold Romance
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302103
+https://streamflexsmm.in/Sflex-Jio/302103/manifest.mpd
+
+#EXTINF:-1 tvg-id="3096" tvg-logo="https://img.media.jio.com/tvpimages/73/72/302104_1753204022099_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Star Gold 2 HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302104
+https://streamflexsmm.in/Sflex-Jio/302104/manifest.mpd
+
+#EXTINF:-1 tvg-id="1404" tvg-logo="https://img.media.jio.com/tvpimages/26/44/302105_1753203522241_l_medium.jpg" group-title="Infotainment" tvg-language="English",Nat Geo Wild
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302105
+https://streamflexsmm.in/Sflex-Jio/302105/manifest.mpd
+
+#EXTINF:-1 tvg-id="3276" tvg-logo="https://img.media.jio.com/tvpimages/73/98/302106_1753204270093_l_medium.jpg" group-title="Movies" tvg-language="English",Star Movies Select
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302106
+https://streamflexsmm.in/Sflex-Jio/302106/manifest.mpd
+
+#EXTINF:-1 tvg-id="3098" tvg-logo="https://img.media.jio.com/tvpimages/0/16/302108_1753186947155_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Star Gold Thrills
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302108
+https://streamflexsmm.in/Sflex-Jio/302108/manifest.mpd
+
+#EXTINF:-1 tvg-id="362" tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1753186300125_l_medium.jpg" group-title="Sports" tvg-language="Hindi",Star Sports 1 Hindi
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302112
+https://streamflexsmm.in/Sflex-Jio/302112/manifest.mpd
+
+#EXTINF:-1 tvg-id="1142" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1753188404703_l_medium.jpg" group-title="Sports" tvg-language="English",Star Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302115
+https://streamflexsmm.in/Sflex-Jio/302115/manifest.mpd
+
+#EXTINF:-1 tvg-id="1985" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1760690003311_l_medium.jpg" group-title="Sports" tvg-language="Hindi",Star Sports 2 Hindi
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302124
+https://streamflexsmm.in/Sflex-Jio/302124/manifest.mpd
+
+#EXTINF:-1 tvg-id="3314" tvg-logo="https://img.media.jio.com/tvpimages/91/37/302141_1753187367589_l_medium.jpg" group-title="Infotainment" tvg-language="Gujarati",Gujarat Wild TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302141
+https://streamflexsmm.in/Sflex-Jio/302141/manifest.mpd
+
+#EXTINF:-1 tvg-id="3382" tvg-logo="https://img.media.jio.com/tvpimages/19/79/304031_1776850531433_l_medium.jpg" group-title="Entertainment" tvg-language="Hindi",EPIC TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304031
+https://streamflexsmm.in/Sflex-Jio/304031/manifest.mpd
+
+#EXTINF:-1 tvg-id="3383" tvg-logo="https://img.media.jio.com/tvpimages/28/70/304032_1776850605923_l_medium.jpg" group-title="Entertainment" tvg-language="Hindi",Epic Bharat
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304032
+https://streamflexsmm.in/Sflex-Jio/304032/manifest.mpd
+
+#EXTINF:-1 tvg-id="3385" tvg-logo="https://img.media.jio.com/tvpimages/43/6/304034_1777617220424_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Epic Kids
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304034
+https://streamflexsmm.in/Sflex-Jio/304034/manifest.mpd
+
+#EXTINF:-1 tvg-id="3436" tvg-logo="https://img.media.jio.com/tvpimages/7/75/304059_1764844897116_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Cartoon Network HD+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304059
+https://streamflexsmm.in/Sflex-Jio/304059/manifest.mpd
+
+#EXTINF:-1 tvg-id="815" tvg-logo="https://img.media.jio.com/tvpimages/6/81/304056_1764335713361_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Sonic
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304056
+https://streamflexsmm.in/Sflex-Jio/304056/manifest.mpd
+
+#EXTINF:-1 tvg-id="3434" tvg-logo="https://img.media.jio.com/tvpimages/93/19/304065_1764845467778_l_medium.jpg" group-title="Entertainment" tvg-language="Hindi",Investigation Discovery HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304065
+https://streamflexsmm.in/Sflex-Jio/304065/manifest.mpd
+
+#EXTINF:-1 tvg-id="3453" tvg-logo="https://img.media.jio.com/tvpimages/60/63/304070_1765355334667_l_medium.jpg" group-title="Infotainment" tvg-language="Hindi ",Discovery Science 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304070
+https://streamflexsmm.in/Sflex-Jio/304070/manifest.mpd
+
+#EXTINF:-1 tvg-id="3458" tvg-logo="https://img.media.jio.com/tvpimages/11/73/304071_1765355349969_l_medium.jpg" group-title="Lifestyle" tvg-language="Hindi ",TLC HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304071
+https://streamflexsmm.in/Sflex-Jio/304071/manifest.mpd
+
+#EXTINF:-1 tvg-id="3451" tvg-logo="https://img.media.jio.com/tvpimages/26/73/304073_1765355358718_l_medium.jpg" group-title="Infotainment" tvg-language="Hindi ",Animal Planet HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304073
+https://streamflexsmm.in/Sflex-Jio/304073/manifest.mpd
+
+#EXTINF:-1 tvg-id="3444" tvg-logo="https://img.media.jio.com/tvpimages/67/36/304072_1765355350270_l_medium.jpg" group-title="Infotainment" tvg-language="Hindi ",Discovery HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304072
+https://streamflexsmm.in/Sflex-Jio/304072/manifest.mpd
+

@@ -1,0 +1,291 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-id="235" tvg-logo="https://img.media.jio.com/imagespublic/71/30/IndiaTV_1570456017012_tv.jpg" group-title="News" tvg-language="Hindi",India TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300007
+https://streamflexsmm.in/Sflex-Jio/300007/manifest.mpd
+
+#EXTINF:-1 tvg-id="250" tvg-logo="https://img.media.jio.com/imagespublic/18/48/MusicIndia_1574670346709_tv.jpg" group-title="Music" tvg-language="Hindi",Music India
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300008
+https://streamflexsmm.in/Sflex-Jio/300008/manifest.mpd
+
+#EXTINF:-1 tvg-id="203" tvg-logo="https://img.media.jio.com/imagespublic/30/71/DDNews_1574777483286_tv.jpg" group-title="DD Channels" tvg-language="Hindi",DD News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300005
+https://streamflexsmm.in/Sflex-Jio/300005/manifest.mpd
+
+#EXTINF:-1 tvg-id="182" tvg-logo="https://img.media.jio.com/tvpimages/80/18/300002_1754934453417_l_medium.jpg" group-title="Movies" tvg-language="Hindi",B4U Movies
+https://streamflexsmm.in/Sflex-Jio/300002/manifest.m3u8
+
+#EXTINF:-1 tvg-id="177" tvg-logo="https://img.media.jio.com/tvpimages/23/60/300001_1753177482990_l_medium.jpg" group-title="News" tvg-language="Hindi",ABP News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300001
+https://streamflexsmm.in/Sflex-Jio/300001/manifest.mpd
+
+#EXTINF:-1 tvg-id="175" tvg-logo="https://img.media.jio.com/imagespublic/17/63/Aastha_1570454431609_tv.jpg" group-title="Devotional" tvg-language="Hindi",Aastha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300000
+https://streamflexsmm.in/Sflex-Jio/300000/manifest.mpd
+
+#EXTINF:-1 tvg-id="202" tvg-logo="https://img.media.jio.com/tvpimages/91/80/300004_1769426552435_l_medium.jpg" group-title="DD Channels" tvg-language="Hindi",DD National
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300004
+https://streamflexsmm.in/Sflex-Jio/300004/manifest.mpd
+
+#EXTINF:-1 tvg-id="183" tvg-logo="https://img.media.jio.com/tvpimages/30/10/300003_1754934493448_l_medium.jpg" group-title="Music" tvg-language="Hindi",B4U Music
+https://streamflexsmm.in/Sflex-Jio/300003/manifest.m3u8
+
+#EXTINF:-1 tvg-id="204" tvg-logo="https://img.media.jio.com/imagespublic/17/8/DDSports_1579505057008_tv.jpg" group-title="DD Channels" tvg-language="Hindi",DD Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300006
+https://streamflexsmm.in/Sflex-Jio/300006/manifest.mpd
+
+#EXTINF:-1 tvg-id="288" tvg-logo="https://img.media.jio.com/imagespublic/70/88/Sanskar_1574671350122_tv.jpg" group-title="Devotional" tvg-language="Hindi",Sanskar
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300009
+https://streamflexsmm.in/Sflex-Jio/300009/manifest.mpd
+
+#EXTINF:-1 tvg-id="440" tvg-logo="https://img.media.jio.com/imagespublic/69/32/9XJalwa_1574666782307_tv.jpg" group-title="Music" tvg-language="Hindi",9X Jalwa
+https://streamflexsmm.in/Sflex-Jio/300011/manifest.m3u8
+
+#EXTINF:-1 tvg-id="441" tvg-logo="https://img.media.jio.com/imagespublic/29/31/9xJhakaas_1574666857786_tv.jpg" group-title="Music" tvg-language="Marathi",9x Jhakaas
+https://streamflexsmm.in/Sflex-Jio/300012/manifest.m3u8
+
+#EXTINF:-1 tvg-id="494" tvg-logo="https://img.media.jio.com/tvpimages/27/92/300017_1776678849713_l_medium.jpg" group-title="News" tvg-language="English",AL Jazeera
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300017
+https://streamflexsmm.in/Sflex-Jio/300017/manifest.mpd
+
+#EXTINF:-1 tvg-id="466" tvg-logo="https://img.media.jio.com/tvpimages/59/58/300014_1749020250486_p_medium.jpg" group-title="Devotional" tvg-language="Hindi",Dharma Sandesh
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300014
+https://streamflexsmm.in/Sflex-Jio/300014/manifest.mpd
+
+#EXTINF:-1 tvg-id="465" tvg-logo="https://img.media.jio.com/imagespublic/10/30/Jaihindtv_1574668902606_tv.jpg" group-title="News" tvg-language="Malayalam",Jaihind tv
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300013
+https://streamflexsmm.in/Sflex-Jio/300013/manifest.mpd
+
+#EXTINF:-1 tvg-id="495" tvg-logo="https://img.media.jio.com/imagespublic/77/6/300018_1621491068032_p_medium.jpg" group-title="News" tvg-language="English",News X
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300018
+https://streamflexsmm.in/Sflex-Jio/300018/manifest.mpd
+
+#EXTINF:-1 tvg-id="499" tvg-logo="https://img.media.jio.com/imagespublic/80/11/NewsNation_1574670650268_tv.jpg" group-title="News" tvg-language="Hindi",News Nation
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300021
+https://streamflexsmm.in/Sflex-Jio/300021/manifest.mpd
+
+#EXTINF:-1 tvg-id="501" tvg-logo="https://img.media.jio.com/imagespublic/32/92/News24_1580292444285_tv.jpg" group-title="News" tvg-language="Hindi",News 24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300022
+https://streamflexsmm.in/Sflex-Jio/300022/manifest.mpd
+
+#EXTINF:-1 tvg-id="496" tvg-logo="https://img.media.jio.com/imagespublic/79/50/dw_1574773486543_tv.jpg" group-title="News" tvg-language="English",dw
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300019
+https://streamflexsmm.in/Sflex-Jio/300019/manifest.mpd
+
+#EXTINF:-1 tvg-id="498" tvg-logo="https://img.media.jio.com/imagespublic/28/0/300020_1620976170912_p_medium.jpg" group-title="News" tvg-language="Hindi",India news
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300020
+https://streamflexsmm.in/Sflex-Jio/300020/manifest.mpd
+
+#EXTINF:-1 tvg-id="503" tvg-logo="https://img.media.jio.com/imagespublic/68/18/IBC-24_1574668456908_tv.jpg" group-title="News" tvg-language="Hindi",IBC 24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300023
+https://streamflexsmm.in/Sflex-Jio/300023/manifest.mpd
+
+#EXTINF:-1 tvg-id="513" tvg-logo="https://img.media.jio.com/imagespublic/4/51/IndiaNewsRajasthan_1574668629628_tv.jpg" group-title="News" tvg-language="Hindi",India News Rajasthan
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300026
+https://streamflexsmm.in/Sflex-Jio/300026/manifest.mpd
+
+#EXTINF:-1 tvg-id="511" tvg-logo="https://img.media.jio.com/imagespublic/31/29/MhOneNews_1574670299165_tv.jpg" group-title="News" tvg-language="Hindi",Mh One News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300024
+https://streamflexsmm.in/Sflex-Jio/300024/manifest.mpd
+
+#EXTINF:-1 tvg-id="515" tvg-logo="https://img.media.jio.com/imagespublic/75/64/300027_1621491309553_p_medium.jpg" group-title="News" tvg-language="Hindi",India News MP
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300027
+https://streamflexsmm.in/Sflex-Jio/300027/manifest.mpd
+
+#EXTINF:-1 tvg-id="512" tvg-logo="https://img.media.jio.com/imagespublic/66/61/IndiaNewsUP_1574668677350_tv.jpg" group-title="News" tvg-language="Hindi",India News UP UK
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300025
+https://streamflexsmm.in/Sflex-Jio/300025/manifest.mpd
+
+#EXTINF:-1 tvg-id="517" tvg-logo="https://img.media.jio.com/imagespublic/89/50/ChardiklaTimeTV_1574667809339_tv.jpg" group-title="News" tvg-language="Punjabi",Chardikla Time TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300029
+https://streamflexsmm.in/Sflex-Jio/300029/manifest.mpd
+
+#EXTINF:-1 tvg-id="516" tvg-logo="https://img.media.jio.com/imagespublic/97/64/IndiaNewsHaryana_1574668514796_tv.jpg" group-title="News" tvg-language="Hindi",India News Haryana
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300028
+https://streamflexsmm.in/Sflex-Jio/300028/manifest.mpd
+
+#EXTINF:-1 tvg-id="518" tvg-logo="https://img.media.jio.com/imagespublic/35/72/Sudarshan_1579505112284_tv.jpg" group-title="News" tvg-language="Hindi",Sudarshan News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300030
+https://streamflexsmm.in/Sflex-Jio/300030/manifest.mpd
+
+#EXTINF:-1 tvg-id="519" tvg-logo="https://img.media.jio.com/imagespublic/60/81/SadhnaNewsPlus_1574671204213_tv.jpg" group-title="News" tvg-language="Hindi",Sadhna News Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300031
+https://streamflexsmm.in/Sflex-Jio/300031/manifest.mpd
+
+#EXTINF:-1 tvg-id="528" tvg-logo="https://img.media.jio.com/imagespublic/98/23/DDIndia_1574667946262_tv.jpg" group-title="DD Channels" tvg-language="English",DD India
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300034
+https://streamflexsmm.in/Sflex-Jio/300034/manifest.mpd
+
+#EXTINF:-1 tvg-id="522" tvg-logo="https://img.media.jio.com/imagespublic/6/96/300033_1633605922613_p_medium.jpg" group-title="News" tvg-language="Hindi",Sansad TV SD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300033
+https://streamflexsmm.in/Sflex-Jio/300033/manifest.mpd
+
+#EXTINF:-1 tvg-id="520" tvg-logo="https://img.media.jio.com/imagespublic/31/83/300032_1633605782031_p_medium.jpg" group-title="News" tvg-language="Hindi",Sansad TV HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300032
+https://streamflexsmm.in/Sflex-Jio/300032/manifest.mpd
+
+#EXTINF:-1 tvg-id="538" tvg-logo="https://img.media.jio.com/imagespublic/97/23/DDRajasthan(Jaipur)_1574668063588_tv.jpg" group-title="DD Channels" tvg-language="Hindi",DD Rajasthan
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300036
+https://streamflexsmm.in/Sflex-Jio/300036/manifest.mpd
+
+#EXTINF:-1 tvg-id="536" tvg-logo="https://img.media.jio.com/imagespublic/6/58/DDMadhyaPradesh_1574667985250_tv.jpg" group-title="DD Channels" tvg-language="Hindi",DD Madhya Pradesh
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300035
+https://streamflexsmm.in/Sflex-Jio/300035/manifest.mpd
+
+#EXTINF:-1 tvg-id="539" tvg-logo="https://img.media.jio.com/imagespublic/76/60/DDBihar_1574667887691_tv.jpg" group-title="DD Channels" tvg-language="Hindi",DD Bihar
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300037
+https://streamflexsmm.in/Sflex-Jio/300037/manifest.mpd
+
+#EXTINF:-1 tvg-id="580" tvg-logo="https://img.media.jio.com/imagespublic/40/72/DDbharati_1574667855475_tv.jpg" group-title="DD Channels" tvg-language="Hindi",DD bharati
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300039
+https://streamflexsmm.in/Sflex-Jio/300039/manifest.mpd
+
+#EXTINF:-1 tvg-id="587" tvg-logo="https://img.media.jio.com/imagespublic/64/77/9XM_1570454383418_tv.jpg" group-title="Music" tvg-language="Hindi",9XM
+https://streamflexsmm.in/Sflex-Jio/300043/manifest.m3u8
+
+#EXTINF:-1 tvg-id="563" tvg-logo="https://img.media.jio.com/imagespublic/66/66/KaumudyTV_1574670054164_tv.jpg" group-title="Lifestyle" tvg-language="Malayalam",Kaumudy
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300038
+https://streamflexsmm.in/Sflex-Jio/300038/manifest.mpd
+
+#EXTINF:-1 tvg-id="583" tvg-logo="https://img.media.jio.com/imagespublic/54/16/DDKisan_1579504993599_tv.jpg" group-title="DD Channels" tvg-language="Hindi",DD Kisan
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300041
+https://streamflexsmm.in/Sflex-Jio/300041/manifest.mpd
+
+#EXTINF:-1 tvg-id="594" tvg-logo="https://img.media.jio.com/imagespublic/0/67/AasthaBhajan_1574669835807_tv.jpg" group-title="Devotional" tvg-language="Hindi",Aastha Bhajan
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300046
+https://streamflexsmm.in/Sflex-Jio/300046/manifest.mpd
+
+#EXTINF:-1 tvg-id="591" tvg-logo="https://img.media.jio.com/imagespublic/31/44/E24_1570454462797_tv.jpg" group-title="Music" tvg-language="Hindi",E24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300044
+https://streamflexsmm.in/Sflex-Jio/300044/manifest.mpd
+
+#EXTINF:-1 tvg-id="593" tvg-logo="https://img.media.jio.com/imagespublic/1/33/Sadhna_1574671241770_tv.jpg" group-title="Devotional" tvg-language="Hindi",Sadhna TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300045
+https://streamflexsmm.in/Sflex-Jio/300045/manifest.mpd
+
+#EXTINF:-1 tvg-id="596" tvg-logo="https://img.media.jio.com/imagespublic/59/80/JinvaniTV_1574670528543_tv.jpg" group-title="Devotional" tvg-language="Hindi",Jinvani Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300047
+https://streamflexsmm.in/Sflex-Jio/300047/manifest.mpd
+
+#EXTINF:-1 tvg-id="597" tvg-logo="https://img.media.jio.com/imagespublic/20/11/SatsangTV_1574671424069_tv.jpg" group-title="Devotional" tvg-language="Hindi",Satsang TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300048
+https://streamflexsmm.in/Sflex-Jio/300048/manifest.mpd
+
+#EXTINF:-1 tvg-id="599" tvg-logo="https://img.media.jio.com/imagespublic/68/41/Dishatv_1574772809662_tv.jpg" group-title="Devotional" tvg-language="Hindi",Disha tv
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300049
+https://streamflexsmm.in/Sflex-Jio/300049/manifest.mpd
+
+#EXTINF:-1 tvg-id="603" tvg-logo="https://img.media.jio.com/imagespublic/33/34/Nambikkai_1574670709060_tv.jpg" group-title="Devotional" tvg-language="Tamil",Nambikkai
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300052
+https://streamflexsmm.in/Sflex-Jio/300052/manifest.mpd
+
+#EXTINF:-1 tvg-id="602" tvg-logo="https://img.media.jio.com/imagespublic/90/49/Parastv_1574670936833_tv.jpg" group-title="Devotional" tvg-language="Hindi",Paras tv
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300051
+https://streamflexsmm.in/Sflex-Jio/300051/manifest.mpd
+
+#EXTINF:-1 tvg-id="607" tvg-logo="https://img.media.jio.com/imagespublic/5/34/SubhavarthaTV_1574672176513_tv.jpg" group-title="Devotional" tvg-language="Telugu",Subhavaartha TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300055
+https://streamflexsmm.in/Sflex-Jio/300055/manifest.mpd
+
+#EXTINF:-1 tvg-id="601" tvg-logo="https://img.media.jio.com/imagespublic/4/53/IshwarTV_1574670480782_tv.jpg" group-title="Devotional" tvg-language="Hindi",Ishwar TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300050
+https://streamflexsmm.in/Sflex-Jio/300050/manifest.mpd
+
+#EXTINF:-1 tvg-id="606" tvg-logo="https://img.media.jio.com/imagespublic/89/69/Shalom_1574671392082_tv.jpg" group-title="Devotional" tvg-language="Malayalam",SHALOM TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300054
+https://streamflexsmm.in/Sflex-Jio/300054/manifest.mpd
+
+#EXTINF:-1 tvg-id="605" tvg-logo="https://img.media.jio.com/imagespublic/24/61/ChannelWin_1574669983989_tv.jpg" group-title="Devotional" tvg-language="Urdu",Channel Win
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key

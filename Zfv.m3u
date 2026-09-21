@@ -44,10 +44,6 @@ https://premiumplug.fun/zee/zee5.php/0-9-209.m3u8
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/zee/zee5.php/0-9-tvhd_0.m3u8
 
-#EXTINF:-1 tvg-id="0-9-channel_122044711" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_122044711/list/1920x1080list823b2c22c4344831a7e5f42e44410e50.png",&TV HD
-#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
-https://premiumplug.fun/zee/zee5.php/0-9-channel_122044711.m3u8
-
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/list/1920x1080listead02d49416241ce89c60432d7b879a6.png",&Pictures HD
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/zee/zee5.php/0-9-tvpictureshd.m3u8

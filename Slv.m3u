@@ -1,1 +1,5 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
+#EXTINF:-1 tvg-id="SONY SAB HD.in" tvg-name="Sony Sab HD" group-title="Entertainment" tvg-logo="https://i.postimg.cc/LhKxf97t/sonysabhd.webp",Sony Sab HD
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://sonychannel.neyini4157.workers.dev/channel/Sony%20Sab%20HD.m3u8

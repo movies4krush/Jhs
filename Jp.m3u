@@ -564,12 +564,3 @@ https://streamflexsmm.in/Sflex-Jio/304244/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300255
 https://streamflexsmm.in/Sflex-Jio/300255/manifest.mpd
 
-#EXTINF:-1 tvg-id="3385" tvg-name="Gubbare" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gubbare.png" group-title="Kids",Gubbare
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd89e690aa255ad8ae832a8ab6b72c52:d2334bc793da0fc97388fea0fcafb052
-#EXTHTTP:{"cookie": "__hdnea__=st=1789952404~exp=1789974004~acl=/*~hmac=c83406b17197d55655fecefb8fab1585a0f6f4730e8e9e5db11f226351111860"}
-#EXTVLCOPT:http-user-agent=Sayan10
-https://jiotvmblive.cdn.jio.com/bpk-tv/Gubbare_MOB/WDVLive/index.mpd
-

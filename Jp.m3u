@@ -15,8 +15,14 @@ https://streamflexsmm.in/Sflex-Jio/300267/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300266
 https://streamflexsmm.in/Sflex-Jio/300266/manifest.mpd
 
-#EXTINF:-1 tvg-id="872" tvg-logo="https://img.media.jio.com/tvpimages/20/59/300270_1753198448010_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Sony YAY
-https://streamflexsmm.in/Sflex-Jio/300270/manifest.m3u8
+#EXTINF:-1 tvg-id="872" tvg-name="Sony Yay Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYHin.png" group-title="Kids",Sony Yay Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=271a8e6c5d9d5696a11c474a5c18371c:d6e2ece0c28b900dc6a868991cdf2517
+#EXTHTTP:{"cookie": "__hdnea__=st=1789952404~exp=1789974004~acl=/*~hmac=c83406b17197d55655fecefb8fab1585a0f6f4730e8e9e5db11f226351111860"}
+#EXTVLCOPT:http-user-agent=Sayan10
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYHin_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2832" tvg-logo="https://img.media.jio.com/tvpimages/3/1/300277_1753198063650_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Sony MAX HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -557,3 +563,21 @@ https://streamflexsmm.in/Sflex-Jio/304244/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300255
 https://streamflexsmm.in/Sflex-Jio/300255/manifest.mpd
+
+#EXTINF:-1 tvg-id="3385" tvg-name="Gubbare" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gubbare.png" group-title="Kids",Gubbare
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd89e690aa255ad8ae832a8ab6b72c52:d2334bc793da0fc97388fea0fcafb052
+#EXTHTTP:{"cookie": "__hdnea__=st=1789952404~exp=1789974004~acl=/*~hmac=c83406b17197d55655fecefb8fab1585a0f6f4730e8e9e5db11f226351111860"}
+#EXTVLCOPT:http-user-agent=Sayan10
+https://jiotvmblive.cdn.jio.com/bpk-tv/Gubbare_MOB/WDVLive/index.mpd
+
+#EXTINF:-1 tvg-id="1375" tvg-name="Disney International HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_International_HD.png" group-title="Kids",Disney International HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2504a914062c5bdeb186269abab353ad:0074716c4730c473be85070b2ba46cc9
+#EXTHTTP:{"cookie": "__hdnea__=st=1789952404~exp=1789974004~acl=/*~hmac=c83406b17197d55655fecefb8fab1585a0f6f4730e8e9e5db11f226351111860"}
+#EXTVLCOPT:http-user-agent=Sayan10
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_International_HD_MOB/WDVLive/index.mpd

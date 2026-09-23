@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - 'mix.py'
+      - 'Mix.py'
 
 jobs:
   update-playlist:
@@ -53,11 +53,11 @@ jobs:
 
       - name: Run Script
         run: |
-          python mix.py
+          python Mix.py
 
       - name: Commit and Push Changes
         run: |
-          git add mix.m3u
+          git add Mix.m3u
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
